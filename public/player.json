@@ -1,0 +1,122 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
+    "player_name": "Mohammad Naim",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.2,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": "BDT 1.10 Crore"
+  },
+  {
+    "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
+    "player_name": "Towhid Hridoy",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.7,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": "BDT 92 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/833333.png",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 8.9,
+    "batting_style": "Right-handed",
+    "bowling_style": "None",
+    "price": "BDT 70 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/1159720.png",
+    "player_name": "Mohammad Saifuddin",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 8.1,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "BDT 68 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/1168661.png",
+    "player_name": "Tanzim Hasan Sakib",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.3,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "BDT 65 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/1183322.png",
+    "player_name": "Shamim Hossain",
+    "player_country": "Bangladesh",
+    "playing_role": "Batting All-rounder",
+    "rating": 7.9,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": "BDT 56 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/1200424.png",
+    "player_name": "Nahid Rana",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.4,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "BDT 56 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/330902.png",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.0,
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "BDT 75 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/330863.png",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.2,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "BDT 80 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/437495.png",
+    "player_name": "Dasun Shanaka",
+    "player_country": "Sri Lanka",
+    "playing_role": "All-rounder",
+    "rating": 8.5,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "price": "USD $55,000"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/373696.png",
+    "player_name": "Shoriful Islam",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.3,
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "price": "BDT 44 Lakh"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320/GSP/cricinfo/55413.png",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 8.6,
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm offbreak",
+    "price": "BDT 35 Lakh"
+  }
+]
