@@ -1,5 +1,6 @@
 [
   {
+    "id": "player-1",
     "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
     "player_name": "Mohammad Naim",
     "player_country": "Bangladesh",
@@ -10,6 +11,7 @@
     "price": "USD $89,375"
   },
   {
+    "id": "player-2",
     "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
     "player_name": "Towhid Hridoy",
     "player_country": "Bangladesh",
@@ -20,6 +22,7 @@
     "price": "USD $74,750"
   },
   {
+    "id": "player-3",
     "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
     "player_name": "Litton Das",
     "player_country": "Bangladesh",
@@ -30,6 +33,7 @@
     "price": "USD $56,875"
   },
   {
+    "id": "player-4",
     "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
     "player_name": "Mohammad Saifuddin",
     "player_country": "Bangladesh",
@@ -40,6 +44,7 @@
     "price": "USD $55,250"
   },
   {
+    "id": "player-5",
     "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
     "player_name": "Tanzim Hasan Sakib",
     "player_country": "Bangladesh",
@@ -50,6 +55,7 @@
     "price": "USD $52,812"
   },
   {
+    "id": "player-6",
     "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
     "player_name": "Shamim Hossain",
     "player_country": "Bangladesh",
@@ -60,6 +66,7 @@
     "price": "USD $45,500"
   },
   {
+    "id": "player-7",
     "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
     "player_name": "Nahid Rana",
     "player_country": "Bangladesh",
@@ -70,6 +77,7 @@
     "price": "USD $45,500"
   },
   {
+    "id": "player-8",
     "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
     "player_name": "Taskin Ahmed",
     "player_country": "Bangladesh",
@@ -80,6 +88,7 @@
     "price": "USD $60,938"
   },
   {
+    "id": "player-9",
     "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
     "player_name": "Mustafizur Rahman",
     "player_country": "Bangladesh",
@@ -90,6 +99,7 @@
     "price": "USD $65,000"
   },
   {
+    "id": "player-10",
     "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
     "player_name": "Dasun Shanaka",
     "player_country": "Sri Lanka",
@@ -100,6 +110,7 @@
     "price": "USD $55,000"
   },
   {
+    "id": "player-11",
     "player_img": "https://i.ibb.co.com/5hmTNPFm/images.jpg",
     "player_name": "Shoriful Islam",
     "player_country": "Bangladesh",
@@ -110,6 +121,7 @@
     "price": "USD $35,750"
   },
   {
+    "id": "player-12",
     "player_img": "https://i.ibb.co.com/jZ1ML7fq/28737.png",
     "player_name": "Mahmudullah Riyad",
     "player_country": "Bangladesh",
