@@ -1,7 +1,7 @@
 import userIcon from "../../assets/userIcon.png";
 import flagIcon from "../../assets/flag.png";
 import { useState } from "react";
-const Player = ({ Playerd, setAvailableBalance, avaiableBalance }) => {
+const Player = ({ Playerd, setAvailableBalance, avaiableBalance,setPurchasedPlayers,purchasedPlayers }) => {
   const [isSelected, setIsSelected] = useState(false);
   const handleSelected = (playerData) => {
     const playerPrice=parseInt(playerData.price.split("USD").join("").split(",").join("").split("$").join(""));
@@ -14,6 +14,7 @@ const Player = ({ Playerd, setAvailableBalance, avaiableBalance }) => {
     setAvailableBalance(
       avaiableBalance - playerPrice
     );
+    setPurchasedPlayers([...purchasedPlayers,playerData]);
   };
   return (
     <>

@@ -14,6 +14,7 @@ const App = () => {
   const [toggle, setToggole] = useState(true);
 
   const [avaiableBalance, setAvailableBalance]=useState(100000);
+  const [purchasedPlayers,setPurchasedPlayers]=useState([]);
   return (
     <>
       <Navbar avaiableBalance={avaiableBalance}></Navbar>
@@ -42,10 +43,10 @@ const App = () => {
             <span className="loading loading-spinner loading-xl"></span>
           }
         >
-          <AvailablePlayers playerPromis={playerPromis} avaiableBalance={avaiableBalance} setAvailableBalance={setAvailableBalance}></AvailablePlayers>
+          <AvailablePlayers purchasedPlayers={purchasedPlayers} setPurchasedPlayers={setPurchasedPlayers}  playerPromis={playerPromis} avaiableBalance={avaiableBalance} setAvailableBalance={setAvailableBalance}></AvailablePlayers>
         </Suspense>
       ) : (
-        <SelectedPlayers></SelectedPlayers>
+        <SelectedPlayers purchasedPlayers={purchasedPlayers}></SelectedPlayers>
       )}
     </>
   );
