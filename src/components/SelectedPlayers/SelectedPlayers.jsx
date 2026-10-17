@@ -1,7 +1,15 @@
-const SelectedPlayers = ({purchasedPlayers}) => {
+import SelectedCard from "../SelectedCard/SelectedCard";
 
-return <>
-  <div className="w-[1200px] mx-auto">selected players</div></>;
+const SelectedPlayers = ({ purchasedPlayers,removePlayer }) => {
+  return (
+    <>
+      <div className="w-[1200px] mx-auto">
+        {purchasedPlayers.map((player) => (
+          <SelectedCard key={player.id} removePlayer={removePlayer} player={player} ></SelectedCard>
+        ))}
+      </div>
+    </>
+  );
 };
 
 export default SelectedPlayers;
